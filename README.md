@@ -81,8 +81,5 @@ Driven by solving real-world ML problems, I have hands-on experience in both **a
   <img src="https://github-readme-stats.vercel.app/api?username=heydarimo&show_icons=true&theme=tokyonight" />
 </p>
 
-
----
-
 _“Empowering intelligent systems through decentralized, secure, and scalable AI.”_
 
