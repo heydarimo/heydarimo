@@ -1,5 +1,9 @@
-# Hi there! 👋 I'm Mohammad Heydari  
+# 👋 Hi, my name is Mohammad Heydari
+---
+
 ### Research Assistant @ McMaster University | AI & ML Researcher | Edge Intelligence & Privacy Enthusiast
+---
+
 
 
 
