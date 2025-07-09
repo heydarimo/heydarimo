@@ -27,8 +27,16 @@ Driven by solving real-world ML problems, I have hands-on experience in both **a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
-Specialties:  
-`Federated Learning` • `Distributed Optimization` • `Reinforcement Learning` • `Computer Vision` • `GANs` • `Edge AI` • `IoT AI Systems` • `Privacy-Preserving ML`
+### 🛠 Specialties:
+
+![FL](https://img.shields.io/badge/Federated%20Learning-blue)  
+![DO](https://img.shields.io/badge/Distributed%20Optimization-lightgrey)  
+![RL](https://img.shields.io/badge/Reinforcement%20Learning-brightgreen)  
+![CV](https://img.shields.io/badge/Computer%20Vision-yellowgreen)  
+![GANs](https://img.shields.io/badge/GANs-purple)  
+![Edge AI](https://img.shields.io/badge/Edge%20AI-blueviolet)  
+![IoT](https://img.shields.io/badge/IoT%20AI%20Systems-orange)  
+![Privacy](https://img.shields.io/badge/Privacy--Preserving%20ML-lightblue)
 
 ---
 
