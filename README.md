@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mohammad Heydari  
 ### 🎓 Research Assistant @ McMaster University | AI & ML Researcher | Edge Intelligence Enthusiast
 
----
+
 
 💡 **About Me**  
 I'm a graduate researcher and teaching assistant at McMaster University, with a focus on **federated learning**, **distributed optimization**, and **AI for edge computing**.  
@@ -12,7 +12,7 @@ Driven by solving real-world ML problems, I have hands-on experience in both **a
 📚 MSc in Computer Software Engineering (4.0 GPA)  
 🏆 Multiple award recipient for academic and research excellence  
 
----
+
 
 ### 🔧 Skills & Tools
 
