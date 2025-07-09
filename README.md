@@ -72,9 +72,9 @@ Specialties:
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=heydarimo&show_icons=true&theme=default" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=heydarimo&show_icons=true&theme=tokyonight" />
 </p>
+
 
 ---
 
