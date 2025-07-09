@@ -8,7 +8,7 @@ I'm a graduate researcher and teaching assistant at McMaster University, with a 
 Driven by solving real-world ML problems, I have hands-on experience in both **academic research** and **industry deployment**, from traffic analysis systems to privacy-preserving IIoT models.
 
 🌍 Based in Canada  
-📬 Reach me at: [Contact via LinkedIn](https://www.linkedin.com/in/heydarimo/)  
+📬 Reach me at: [mohammadheydari.eduu@gmail.com](mailto:mohammadheydari.eduu@gmail.com)
 📚 MSc in Computer Software Engineering (4.0 GPA)  
 🏆 Multiple award recipient for academic and research excellence  
 
