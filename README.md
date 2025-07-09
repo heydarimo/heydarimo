@@ -1,5 +1,5 @@
 # 👋 Hi, my name is Mohammad Heydari
-## Research Assistant @ McMaster University | AI & ML Researcher | Edge Intelligence & Privacy Enthusiast
+### Research Assistant @ McMaster University | AI & ML Researcher | Edge Intelligence & Privacy Enthusiast
 
 
 
@@ -40,7 +40,6 @@ Driven by solving real-world ML problems, I have hands-on experience in both **a
 ![IoT](https://img.shields.io/badge/IoT%20AI%20Systems-orange)  
 ![Privacy](https://img.shields.io/badge/Privacy--Preserving%20ML-lightblue)
 
----
 
 ### 🚀 Experience Highlights
 
@@ -59,7 +58,6 @@ Driven by solving real-world ML problems, I have hands-on experience in both **a
 - 🎥 **ML Engineer Intern**, Smart Traffic Control  
   Designed CNN-based vehicle tracking models and deployed full-stack ML solutions for smart cities.
 
----
 
 ### 🎓 Education
 
@@ -69,7 +67,6 @@ Driven by solving real-world ML problems, I have hands-on experience in both **a
 - **BSc in Electrical & Computer Engineering**, University of Tehran  
   GPA: 3.8/4.0 | Capstone: GAN-based Privacy-Aware RL in IIoT
 
----
 
 ### 🏅 Honors & Awards
 
@@ -77,7 +74,6 @@ Driven by solving real-world ML problems, I have hands-on experience in both **a
 - 🥇 Best Undergraduate Research Project (University of Tehran)  
 - 🎖️ Ranked Top 0.2% in Iran’s National University Entrance Exam  
 
----
 
 ### 📈 GitHub Stats
 
