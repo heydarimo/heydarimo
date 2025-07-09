@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Mohammad Heydari  
-# 🎓 Research Assistant @ McMaster University | AI & ML Researcher | Machine Learning and Data Science Enthusiast
+### Research Assistant @ McMaster University | AI & ML Researcher | Edge Intelligence & Privacy Enthusiast
 
 
 
