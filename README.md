@@ -1,16 +1,17 @@
-# Hi there! 👋 I'm Mohammad Heydari  
-### 🎓 Research Assistant @ McMaster University | AI & ML Researcher | Machine Learning and Data Science Enthusiast
+# 👋 Hi, My name is Mohammad Heydari
 
+---
 
+### Research Assistant @ McMaster University | AI & ML Researcher | Edge Intelligence & Privacy Enthusiast
 
-💡 **About Me**  
-I'm a graduate researcher and teaching assistant at McMaster University, with a focus on **federated learning**, **distributed optimization**, and **AI for edge computing**.  
-Driven by solving real-world ML problems, I have hands-on experience in both **academic research** and **industry deployment**, from traffic analysis systems to privacy-preserving IIoT models.
+---
 
-🌍 Based in Canada  
-📬 Reach me at: [mohammadheydari.eduu@gmail.com](mailto:mohammadheydari.eduu@gmail.com)  
-📚 MSc in Computer Software Engineering (4.0 GPA)  
-🏆 Multiple award recipient for academic and research excellence  
+- 🌍 I'm based in Canada  
+- ✉️ You can contact me at [mohammadheydari.eduu@gmail.com](mailto:mohammadheydari.eduu@gmail.com)  
+- 🚀 I'm currently working on federated learning, distributed optimization, and privacy-preserving ML at McMaster  
+- 🤝 I'm open to collaborating on topics like Edge AI, RL, or decentralized ML systems  
+- 💼 I have 4+ years of experience across academic research and industry AI projects  
+- 🧠 I'm exploring LLM protocols, FL benchmarks, and continual learning in constrained settings
   
 
 
