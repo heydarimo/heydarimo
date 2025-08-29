@@ -78,8 +78,9 @@ Driven by solving real-world ML problems, I have hands-on experience in both **a
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=heydarimo&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heydarimo&show_icons=true&theme=tokyonight" />
 </p>
+
 
 
 
