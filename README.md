@@ -36,7 +36,7 @@ Driven by solving real-world ML problems, I have hands-on experience in both **a
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="36" height="36" alt="AWS" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" alt="AWS"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" alt="Hugging Face"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
