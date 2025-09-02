@@ -15,7 +15,7 @@ Driven by solving real-world ML problems, I have hands-on experience in both **a
 🏆 Multiple award recipient for academic and research excellence  
   
 
-### 🛠️ Skills & Tools
+### ⚙️ Skills & Tools
 
 <p align="left">
   <!-- Languages -->
