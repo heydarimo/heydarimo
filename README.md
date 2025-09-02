@@ -50,14 +50,10 @@ Driven by solving real-world ML problems, I have hands-on experience in both **a
 
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
-  <img src="https://awsicons.dev/svg/S3.svg" width="40" alt="AWS S3" />
-  <img src="https://awsicons.dev/svg/Lambda.svg" width="40" alt="AWS Lambda" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" alt="Tableau"/>
 </p>
 
 ### 🛠 Specialties:
